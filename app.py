@@ -34,7 +34,7 @@ st.write(
 # Upload CSV + analyze dataset
 
 ANALYZE_WEBHOOK_URL = (
-    "https://wejdansaleh0293.app.n8n.cloud/webhook-test/invoice-upload"
+    "https://wejdansaleh0293.app.n8n.cloud/webhook/invoice-upload"
 )
 
 
@@ -42,7 +42,7 @@ ANALYZE_WEBHOOK_URL = (
 # Ask questions about analyzed data
 
 ASK_WEBHOOK_URL = (
-    "https://wejdansaleh0293.app.n8n.cloud/webhook-test/invoice-upload"
+    "https://wejdansaleh0293.app.n8n.cloud/webhook/invoice-upload"
 )
 
 
